@@ -1,0 +1,7 @@
+C:\Users\Tolga\source\repos\CSharpCourse\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\Tolga\source\repos\CSharpCourse\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\Tolga\source\repos\CSharpCourse\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\Tolga\source\repos\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tolga\source\repos\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Tolga\source\repos\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\Tolga\source\repos\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.pdb
