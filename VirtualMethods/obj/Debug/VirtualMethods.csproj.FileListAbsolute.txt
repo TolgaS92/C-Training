@@ -1,0 +1,7 @@
+C:\Users\Tolga\source\repos\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\Tolga\source\repos\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\Tolga\source\repos\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\Tolga\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tolga\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\Tolga\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\Tolga\source\repos\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.pdb
